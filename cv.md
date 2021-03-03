@@ -2,7 +2,7 @@
 
 # Darya Karotchanka 
 
-> Smedsbacksgatan 5, \ 
+> Smedsbacksgatan 5,  
 > Stockholm, Sweden, 11539 \
 > +46723676016 \
 > daria.vyacheslavovna@gmail.com 
@@ -36,7 +36,7 @@ fast-paced work environments. Interpersonal skills with an aptitude to encourage
 ## Websites	
 https://linkedin.com/
 ## Portfolios
-https://github.com/IamDarya
+https://github.com/IamDarya \
 https://iamdarya.github.io/Gradient.github.io/
 
 
