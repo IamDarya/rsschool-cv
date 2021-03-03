@@ -2,35 +2,35 @@
 
 # Darya Karotchanka 
 
-> Smedsbacksgatan 5, 
-> Stockholm, Sweden, 11539
-> +46723676016
-> daria.vyacheslavovna@gmail.com
+> Smedsbacksgatan 5, \ 
+> Stockholm, Sweden, 11539 \
+> +46723676016 \
+> daria.vyacheslavovna@gmail.com 
 
 &nbsp;Hello. I am a self-taught front-end developer. People Person. Excels in high stress, 
 fast-paced work environments. Interpersonal skills with an aptitude to encourage collaboration. 
 
 ## Technical Skills
-HTML/HTML5  
-CSS/CSS3
-SemanticUI
-Responsive Design
-Flexbox
-CSS Grid
-Bootstrap 5
-DOM Manipulation
-Javascript (inc. ES6/ES7/ES8/ES9/ES10/ES2020)
-Asynchronous JavaScript
-HTTP/JSON/AJAX
-React + Redux m+ React Hooks
-Git + Github
-Command Line
-Node.js
-NPM
-RESTful API Design
-PostgresSQL
-SQL
-Production and Deployment
+- HTML/HTML5  
+- CSS/CSS3
+- SemanticUI
+- Responsive Design
+- Flexbox
+- CSS Grid
+- Bootstrap 5
+- DOM Manipulation
+- Javascript (inc. ES6/ES7/ES8/ES9/ES10/ES2020)
+- Asynchronous JavaScript
+- HTTP/JSON/AJAX
+- React + Redux m+ React Hooks
+- Git + Github
+- Command Line
+- Node.js
+- NPM
+- RESTful API Design
+- PostgresSQL
+- SQL
+- Production and Deployment
 
 
 ## Websites	
