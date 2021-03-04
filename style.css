@@ -1,0 +1,83 @@
+header {
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+h1 {
+	color: peru;
+	margin: 0px 0px 50px 0px;
+}
+h2 {
+	color: peru;
+}
+
+li {
+	margin-bottom: 15px;
+}
+a {
+	text-decoration: none;
+}
+p {
+	line-height: 25px;
+}
+
+.whole_page {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 5em;
+	font-family: sans-serif;
+	font-size: 17px;
+}
+
+.photo > img {
+	height: 252px;
+}
+
+.contact {
+	margin-left: 15px;
+}
+
+.contact > ul {
+	list-style: none;
+    padding-left: 0px;
+}
+
+.greeting {
+	width: 60em;
+}
+
+.technical_skills_list {
+	display: flex;
+	flex-direction: row;
+}
+.websites_and_portfolios {
+	display: flex;
+	flex-direction: row;
+}
+.websites, .portfolios {
+	display: flex;
+	flex-direction: column;
+}
+.portfolios {
+	margin-left: 7em;
+}
+.english_level {
+	width: 60em;
+	margin-bottom: 200px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    background-color: papayawhip;
+    width: 100%;
+    justify-content: center;
+}
+
+footer > img, a, p {
+	height: 30px;
+	margin: 5px 5px 0px 10px;
+}
