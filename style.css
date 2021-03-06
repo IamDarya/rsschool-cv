@@ -31,6 +31,13 @@ p {
 	font-size: 17px;
 }
 
+.without_footer {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	max-width: 1000px;
+}
+
 .photo > img {
 	height: 252px;
 }
